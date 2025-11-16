@@ -67,11 +67,11 @@
 }
 .hero-content {
   z-index: 1;
-  max-width: 590px;
+  max-width: 600px;
   padding: 20px;
 }
 .hero-content h1 {
-  font-size: 50px;
+  font-size: 52px;
   margin-bottom: 20px;
 }
 .hero-content span {
